@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\WindowsCalculatorCSharp\bin\Debug\WindowsCalculatorCSharp.exe.config
+C:\Users\hp\source\repos\WindowsCalculatorCSharp\bin\Debug\WindowsCalculatorCSharp.exe
+C:\Users\hp\source\repos\WindowsCalculatorCSharp\bin\Debug\WindowsCalculatorCSharp.pdb
+C:\Users\hp\source\repos\WindowsCalculatorCSharp\obj\Debug\WindowsCalculatorCSharp.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\WindowsCalculatorCSharp\obj\Debug\WindowsCalculatorCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\WindowsCalculatorCSharp\obj\Debug\WindowsCalculatorCSharp.Form1.resources
+C:\Users\hp\source\repos\WindowsCalculatorCSharp\obj\Debug\WindowsCalculatorCSharp.Properties.Resources.resources
+C:\Users\hp\source\repos\WindowsCalculatorCSharp\obj\Debug\WindowsCalculatorCSharp.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\WindowsCalculatorCSharp\obj\Debug\WindowsCalculatorCSharp.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WindowsCalculatorCSharp\obj\Debug\WindowsCalculatorCSharp.exe
+C:\Users\hp\source\repos\WindowsCalculatorCSharp\obj\Debug\WindowsCalculatorCSharp.pdb
+C:\Users\hp\source\repos\WindowsCalculatorCSharp\bin\Debug\WindowsCalculatorCSharp.exe.manifest
+C:\Users\hp\source\repos\WindowsCalculatorCSharp\bin\Debug\WindowsCalculatorCSharp.application
+C:\Users\hp\source\repos\WindowsCalculatorCSharp\obj\Debug\WindowsCalculatorCSharp.exe.manifest
+C:\Users\hp\source\repos\WindowsCalculatorCSharp\obj\Debug\WindowsCalculatorCSharp.application

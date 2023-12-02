@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "40a2a55d-f36e-466b-a052-ba7779cb2513": {
+      "ProjectGuid": "40a2a55d-f36e-466b-a052-ba7779cb2513",
+      "DisplayName": "WindowsCalculatorCSharp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
